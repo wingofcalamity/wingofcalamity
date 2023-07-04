@@ -1,4 +1,3 @@
-- wannabe web-developer & designer
 - local fullstack web dimwit (php, js, etc)
 - learning C++ and C#
 <!---
